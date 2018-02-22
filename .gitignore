@@ -1,0 +1,4 @@
+#write here files or folder you want to ignore
+
+*.dat
+results
